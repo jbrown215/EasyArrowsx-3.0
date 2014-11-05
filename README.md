@@ -32,3 +32,4 @@ In the scene you want the controller, add this to the init:
     else if (controller->getButton(kDirectionRight)->isSelected()) {
         CCLOG("Right button is pressed!");
     }
+    
