@@ -17,7 +17,7 @@ In the scene you want the controller, add this to the init:
   
   .cpp
   
-  ==============================================================================================
+  =========================================================================================
   
   controller = DPad::create("Base01.png", "Button01.png", "ButtonPressed01.png", Point(0,0));
   
