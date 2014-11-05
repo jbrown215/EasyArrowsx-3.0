@@ -6,8 +6,7 @@ Easy Arrows for cocos2d redone for cocos2d-x 3.0+
 
 In the scene you want the controller, add this to the init:
 
-  .h 
-  =================
+  .h
   #include "DPad.h"
   =================
   DPad *controller;
